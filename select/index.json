@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "九龍レトロ(Rearrange cover)",
+  "base_artist": "あらき",
+  "createdAt": "2026-02-21T11:54:49.718083Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "九龍レトロ(Rearrange cover)",
+      "artist": "あらき",
+      "has_synced": false,
+      "path": "select/pl_01_九龍レトロ(Rearrange_cover)_あらき.txt"
+    }
+  ]
+}
